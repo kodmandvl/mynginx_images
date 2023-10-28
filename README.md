@@ -73,3 +73,12 @@ echo '==========================================================================
 echo
 echo "DONE."
 ```
+
+## sha256sum: 
+
+```
+sha256sum mynginx_v1.tar.gz > ./mynginx_v1.tar.gz.sha256sum
+sha256sum mynginx_v2.tar.gz > ./mynginx_v2.tar.gz.sha256sum
+sha256sum mynginx_v3.tar.gz > ./mynginx_v3.tar.gz.sha256sum
+sha256sum mynginx_v4.tar.gz > ./mynginx_v4.tar.gz.sha256sum
+```
