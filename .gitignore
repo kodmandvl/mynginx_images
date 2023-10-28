@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+# Other files:
+*.log
+*.DS_Store*
+nohup.out
