@@ -1,3 +1,3 @@
 # mynginx_images 
 
-My Nginx images for education and tests 
+My Nginx Docker images for education and tests 
