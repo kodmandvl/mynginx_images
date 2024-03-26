@@ -1,3 +1,7 @@
+# See fresh files on [My Docker Images Repo](https://github.com/kodmandvl/my_docker_images)
+
+This repository ([My Nginx Images](https://github.com/kodmandvl/mynginx_images)) will no longer be developed. 
+
 # mynginx_images (from nginx:1.25.2-alpine-slim official image) 
 
 My Nginx Docker images for education and tests (from nginx:1.25.2-alpine-slim official image) 
